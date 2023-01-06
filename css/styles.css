@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: black;
+    background-image: url("../images/background.png");
+    background-size: 100%;
+    background-repeat: repeat-y;
+    margin: 0px;
+    padding: 0px;
+  }
+  h1 {
+    text-align: left;
+    font-size: 150px;
+
+  }
+  h2 {
+    font-style: italic;
+    text-align: left;
+    
+  }
+  h3 {
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .intro {
+    width: 50%;
+    font-style: italic;
+  }
+  p.author {
+    width: 75%;
+    font-style: italic;
+    font-weight: bold;
+  }
