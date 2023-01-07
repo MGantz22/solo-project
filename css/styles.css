@@ -4,7 +4,7 @@ body {
     background-image: url("../images/background.png");
     background-size: 100%;
     background-repeat: repeat-y;
-    margin: 0px;
+    margin: 25px;
     padding: 0px;
   }
 
@@ -12,7 +12,45 @@ body {
     text-align: left;
     font-size: 700%;
 }
-.About  {
+h2{
+    text-align: center;
+    font-size: 30px;
     
-  }
+}
+p{
+    font-size: 22px;
+}
+ul{
+    text-align: left;
+    font-size: 22px;
+}
+ol{
+    text-align: left;
+    font-size: 22px;
+}
 
+span{
+    color: rgb(245, 118, 149);
+}
+
+.box-one {
+    background-color: rgba(245, 245, 245, 0.389);
+    padding: 10px;
+    border: 10px solid black;
+    height: 600px;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.box-two {
+    background-color: rgba(245, 245, 245, 0.389);
+    padding: 10px;
+    border: 10px solid black;
+    height: 600px;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    font-size: 60px;
+}
