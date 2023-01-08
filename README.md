@@ -6,8 +6,8 @@
 
 ## Technologies Used
 
-* _HTML
-* _CSS
+* _HTML_
+* _CSS_
 * _Image files. (.jpg)_
 
 ## Description
@@ -27,6 +27,6 @@ _This is a static page showcasing the skills ive learned so far in the course at
 
 ## License
 
-_Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, always open to learning new things. Thanks! like, comment amd subscribe to see more of me! _
+_Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, always open to learning new things. Thanks! please like, comment and subscribe to see more of me!_
 
 Copyright (c) _2023_ _Mitchell Gantz_
