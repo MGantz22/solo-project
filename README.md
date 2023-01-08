@@ -29,4 +29,6 @@ _This is a static page showcasing the skills I've learned so far in the course a
 
 _Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, I am  always open to learning new things. Thank you! Please like, comment and subscribe to see more of me and my work!_
 
+_Here is the link for the project: https://mgantz22.github.io/solo-project/_
+
 Copyright (c) _2023_ _Mitchell Gantz_
