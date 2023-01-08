@@ -1,8 +1,8 @@
-# _{Solo-project}_
+# _Solo-Project_
 
-#### By _**{Mitchell Gantz}**_
+#### By _**Mitchell Gantz**_
 
-#### _{HTML project, demonstration site showcasing HTML, CSS.}_
+#### _HTML project, demonstration site showcasing HTML, CSS._
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a static page showcasing the skills ive learned so far in the course at Epicodus; The first solo project assigned. On this static page you will learn more about me as a programer and a little about me outside of computing. You will also find a list of my first projects a long with links.}_
+_This is a static page showcasing the skills ive learned so far in the course at Epicodus; The first solo project assigned. On this static page you will learn more about me as a programer and a little about me outside of computing. You will also find a list of my first projects a long with links._
 
 ## Setup/Installation Requirements
 
@@ -27,6 +27,6 @@ _{This is a static page showcasing the skills ive learned so far in the course a
 
 ## License
 
-_{Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, always open to learning new things. Thanks! like, comment amd subscribe to see more of me! }_
+_Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, always open to learning new things. Thanks! like, comment amd subscribe to see more of me! _
 
 Copyright (c) _2023_ _Mitchell Gantz_
