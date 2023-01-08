@@ -12,11 +12,11 @@
 
 ## Description
 
-_This is a static page showcasing the skills ive learned so far in the course at Epicodus; The first solo project assigned. On this static page you will learn more about me as a programer and a little about me outside of computing. You will also find a list of my first projects a long with links._
+_This is a static page showcasing the skills I've learned so far in the course at Epicodus; This is my first solo project. On this page you will learn more about me as a programmer and a little about me outside of computing. You will also find a list of my first projects along with links._
 
 ## Setup/Installation Requirements
 
-* _Cloan this repository to your desktop_
+* _Clone this repository to your desktop_
 * _Open Solo-project directory_
 * _Open index.html_
 
@@ -27,6 +27,6 @@ _This is a static page showcasing the skills ive learned so far in the course at
 
 ## License
 
-_Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, always open to learning new things. Thanks! please like, comment and subscribe to see more of me!_
+_Please let me know if you run into any errors yourself or have any questions at all. Please contact me directly or feel free to make a contribution to the code, I am  always open to learning new things. Thank you! Please like, comment and subscribe to see more of me and my work!_
 
 Copyright (c) _2023_ _Mitchell Gantz_
